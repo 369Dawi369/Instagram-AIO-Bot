@@ -89,7 +89,8 @@ def main():
     # TODO possible while loop with gaps to run indefinitely
 
     #uploadMediaToAcc(findMediaViaHashtag("emogirls", "recent"))
-    getMediaFromDMs()
+    #getMediaFromDMs()
+    print("test")
 
 # ----------------------------------------------------------------------------------------------------------------------
 
