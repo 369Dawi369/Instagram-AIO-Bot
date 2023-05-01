@@ -88,7 +88,7 @@ MediaDownloadsPath = Path("Media Downloads")
 def main():
     # TODO possible while loop with gaps to run indefinitely
 
-    #uploadMediaToAcc(findMediaViaHashtag("emogirls", "recent"))
+    #uploadMediaToAcc(findMediaViaHashtag("bruins"))
     #getMediaFromDMs()
     print("test")
 
