@@ -1,0 +1,7 @@
+venv/
+.idea/
+CREDENTIALS.txt
+Creds2.txt
+session.json
+testing.py
+UsedMemes.txt
