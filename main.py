@@ -9,7 +9,6 @@ from ConstText import searchTags, captions, generateTags
 from instagrapi.types import Media, DirectThread, DirectMessage, DirectMedia
 from pathlib import Path
 
-# TODO tell ppl to add "Media Downloads" folder
 # TODO get memes in more ways then hashtag
 # TODO story posts
 # TODO post from DM's
