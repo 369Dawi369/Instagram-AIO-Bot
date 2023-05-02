@@ -75,7 +75,6 @@ if not login_via_creds and not login_via_session:
 
 # USER IDS
 my_user_id = cl.user_id_from_username(USERNAME)
-adelka_user_id = cl.user_id_from_username("adel.trn")
 lostBoyKalv2_user_id = cl.user_id_from_username("lostboykal.v2")
 foxNews_user_id = cl.user_id_from_username("foxnews")
 myThreadID = "340282366841710301244259328861883103950"
